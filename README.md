@@ -1,2 +1,8 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Example:
+
+Input:
+Total = 1000
+People = 4
+
+Output:
+Each person pays = 250
